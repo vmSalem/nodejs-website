@@ -1,0 +1,6 @@
+---
+applications:
+  - name: nodejs
+    memory: 256M
+    routes: 
+    - route: nodejs.vmsalem.lab
