@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:800|Merriweather+Sans|Share+Tech+Mono");
 
 .WelcomeView {
-  background-image: url("test2.png") !important;
+  background-image: url("test1.png") !important;
   background-size: auto !important; /* or contain depending on what you want */
   background-position: center !important;
   background-repeat: no-repeat;
