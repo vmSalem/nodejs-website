@@ -1,4 +1,5 @@
 Here are some random 7-character alphanumeric format:
+
 A1B2C3D
 X9Y8Z76
 P0Q1R2S
